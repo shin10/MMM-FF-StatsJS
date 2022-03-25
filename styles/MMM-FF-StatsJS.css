@@ -1,0 +1,9 @@
+.MMM-FF-StatsJS.static .wrapper {
+  position: relative;
+}
+
+.MMM-FF-StatsJS.static .wrapper > div {
+  position: static !important;
+  display: inline-block;
+}
+/*# sourceMappingURL=MMM-FF-StatsJS.css.map */

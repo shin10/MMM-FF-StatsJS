@@ -1,0 +1,24 @@
+{
+  "name": "magic-mirror-module-ff-statsjs",
+  "version": "1.0.0",
+  "description": "MagicMirror² module to add Mr. Doobs StatsJS.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shin10/MMM-FF-StatsJS.git"
+  },
+  "keywords": [
+    "magic mirror",
+    "smart mirror",
+    "FPS",
+    "Memory"
+  ],
+  "author": "Michael Trenkler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shin10/MMM-FF-StatsJS/issues"
+  },
+  "homepage": "https://github.com/shin10/MMM-FF-StatsJS#readme",
+  "optionalDependencies": {
+    "stats.js": "^0.17.0"
+  }
+}
