@@ -1,8 +1,8 @@
-.MMM-FF-StatsJS.static .wrapper {
+.MMM-FF-StatsJS .wrapper.static {
   position: relative;
 }
 
-.MMM-FF-StatsJS.static .wrapper > div {
+.MMM-FF-StatsJS .wrapper.static > div {
   position: static !important;
   display: inline-block;
 }
